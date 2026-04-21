@@ -57,7 +57,6 @@
 - Node.js e Express
 - APIs RESTful
 - Banco de dados (MySQL)
-- Autenticação com JWT
 - Boas práticas e arquitetura de software
 
 ---
