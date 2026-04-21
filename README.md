@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Gabriel Silva</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Backend | PHP | JavaScript | Node.js</strong>
+  <strong>Desenvolvedor Backend em formação | PHP | JavaScript | Node.js</strong>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  JavaScript • Node.js • APIs REST • Arquitetura Backend
+  JavaScript • Node.js • APIs REST • Lógica Backend
 </p>
 
 ---
@@ -97,7 +97,7 @@
   <a href="https://www.linkedin.com/in/gabriel-rocha-b4339b237/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="tec.gabriel2003@gmail.com">
+  <a href="mailto:tec.gabriel2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
