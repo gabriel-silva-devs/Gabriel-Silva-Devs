@@ -64,30 +64,7 @@
 
 ## 📂 Projetos em Destaque
 
-### 🧩 node-api-base
-> API RESTful com Node.js e Express
-
-- Estrutura MVC
-- CRUD completo
-- Integração com banco de dados
-
----
-
-### 🔐 node-auth-api
-> API com autenticação JWT
-
-- Registro e login de usuários
-- Proteção de rotas
-- Middleware de autenticação
-
----
-
-### 🖥️ fullstack-crud-app
-> Aplicação fullstack com autenticação
-
-- Frontend + Backend
-- Sistema de login
-- CRUD completo
+> 🚧 Projetos em desenvolvimento
 
 ---
 
