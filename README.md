@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Gabriel Silva</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Backend em formação | PHP | JavaScript | Node.js</strong>
+  <strong>Desenvolvedor full stack em formação | PHP | JavaScript | Node.js</strong>
 </p>
 
 <p align="center">
@@ -82,4 +82,4 @@
 
 ## ⚡ Status
 
-🚀 Construindo projetos todos os dias e evoluindo como desenvolvedor backend.
+🚀 Construindo projetos todos os dias e evoluindo como desenvolvedor full stack.
