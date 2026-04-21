@@ -1,47 +1,100 @@
-# 👋 Olá, eu sou o Gabriel Rocha
+<h1 align="center">👋 Olá, eu sou o Gabriel Silva</h1>
 
-💻 Desenvolvedor de Software em evolução, com experiência prática em desenvolvimento web utilizando PHP (CodeIgniter) e atualmente focado em JavaScript e Node.js.
+<p align="center">
+  <strong>Desenvolvedor Backend | PHP | JavaScript | Node.js</strong>
+</p>
 
-🚀 Meu objetivo é me tornar um desenvolvedor backend completo, construindo aplicações reais e escaláveis.
+<p align="center">
+  Desenvolvedor de Software em evolução, com experiência prática em PHP (CodeIgniter) e atualmente focado em Node.js.
+</p>
+
+<p align="center">
+  🚀 Meu objetivo é me tornar um desenvolvedor backend completo, construindo aplicações reais e escaláveis.
+</p>
 
 ---
 
 ## 🛠️ Tecnologias
 
-- JavaScript
-- Node.js
-- PHP
-- CodeIgniter
-- Bootstrap
-- HTML & CSS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,php,bootstrap,html,css,git,github" />
+</p>
 
 ---
 
-## 📌 Experiência
+## 💼 Experiência
 
-🧠 **Desenvolvedor de Software**  
+**Desenvolvedor de Software (4 meses)**  
 Atuação com PHP, CodeIgniter (MVC), JavaScript e Bootstrap:
-- Criação de páginas
-- Refatoração de código
-- Implementação de novas funcionalidades em sistema real
+
+- ✅ Criação de páginas
+- ✅ Refatoração de código
+- ✅ Implementação de novas funcionalidades
+- ✅ Manutenção de sistema existente
+
+---
+
+## 🚀 Atualmente estudando
+
+- Node.js e Express
+- APIs RESTful
+- Banco de dados (MySQL)
+- Autenticação com JWT
+- Boas práticas e arquitetura de software
 
 ---
 
 ## 📂 Projetos em Destaque
 
-🔹 Em construção...
+### 🧩 node-api-base
+> API RESTful com Node.js e Express
+
+- Estrutura MVC
+- CRUD completo
+- Integração com banco de dados
 
 ---
 
-## 📈 Atualmente estudando
+### 🔐 node-auth-api
+> API com autenticação JWT
 
-- Node.js
-- APIs REST
-- Autenticação
-- Banco de dados
+- Registro e login de usuários
+- Proteção de rotas
+- Middleware de autenticação
+
+---
+
+### 🖥️ fullstack-crud-app
+> Aplicação fullstack com autenticação
+
+- Frontend + Backend
+- Sistema de login
+- CRUD completo
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TecGabriel-Silva&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TecGabriel-Silva&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: (https://www.linkedin.com/in/gabriel-rocha-b4339b237/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-rocha-b4339b237/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gabriel.silva.devcontato@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Status
+
+🚀 Construindo projetos todos os dias e evoluindo como desenvolvedor backend.
