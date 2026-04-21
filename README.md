@@ -17,7 +17,7 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,php,bootstrap,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,php,codeigniter,bootstrap,html,css,git,github" />
 </p>
 
 ---
@@ -73,22 +73,13 @@ Atuação com PHP, CodeIgniter (MVC), JavaScript e Bootstrap:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TecGabriel-Silva&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TecGabriel-Silva&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-rocha-b4339b237/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:gabriel.silva.devcontato@gmail.com">
+  <a href="tec.gabriel2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
