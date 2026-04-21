@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel Rocha
 
-<!--
-**gabriel-silva-devs/Gabriel-Silva-Devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor de Software em evolução, com experiência prática em desenvolvimento web utilizando PHP (CodeIgniter) e atualmente focado em JavaScript e Node.js.
 
-Here are some ideas to get you started:
+🚀 Meu objetivo é me tornar um desenvolvedor backend completo, construindo aplicações reais e escaláveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias
+
+- JavaScript
+- Node.js
+- PHP
+- CodeIgniter
+- Bootstrap
+- HTML & CSS
+
+---
+
+## 📌 Experiência
+
+🧠 **Desenvolvedor de Software**  
+Atuação com PHP, CodeIgniter (MVC), JavaScript e Bootstrap:
+- Criação de páginas
+- Refatoração de código
+- Implementação de novas funcionalidades em sistema real
+
+---
+
+## 📂 Projetos em Destaque
+
+🔹 Em construção...
+
+---
+
+## 📈 Atualmente estudando
+
+- Node.js
+- APIs REST
+- Autenticação
+- Banco de dados
+
+---
+
+## 📫 Contato
+
+- LinkedIn: (https://www.linkedin.com/in/gabriel-rocha-b4339b237/)
