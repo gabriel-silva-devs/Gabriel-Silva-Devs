@@ -16,21 +16,39 @@
 
 ## 🛠️ Tecnologias
 
+### 🚀 Stack Principal (Foco atual)
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,php,codeigniter,bootstrap,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs" />
+</p>
+
+<p align="center">
+  JavaScript • Node.js • APIs REST • Arquitetura Backend
 </p>
 
 ---
 
-## 💼 Experiência
+### 💼 Experiência prática
 
-**Desenvolvedor de Software (4 meses)**  
-Atuação com PHP, CodeIgniter (MVC), JavaScript e Bootstrap:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,bootstrap,html,css" />
+</p>
 
-- ✅ Criação de páginas
-- ✅ Refatoração de código
-- ✅ Implementação de novas funcionalidades
-- ✅ Manutenção de sistema existente
+<p align="center">
+  PHP • CodeIgniter (MVC) • Bootstrap • HTML • CSS
+</p>
+
+---
+
+### ⚙️ Ferramentas & Versionamento
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p align="center">
+  Git • GitHub • Versionamento de código
+</p>
 
 ---
 
