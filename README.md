@@ -63,7 +63,9 @@
 
 ## 📂 Projetos em Destaque
 
-> 🚧 Projetos em desenvolvimento
+> ⭐ <a href="https://github.com/gabriel-silva-devs/API-Gerenciador-Podcast">
+Podcast Manager
+<a>
 
 ---
 
