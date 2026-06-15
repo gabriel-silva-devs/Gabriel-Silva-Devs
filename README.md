@@ -77,6 +77,18 @@ Desenvolvo aplicações web, automações de fluxo e integrações entre sistema
 
 ---
 
+### ⚽ [Soccer-API](https://github.com/gabriel-silva-devs/soccer_api)
+
+> Aplicação **Node.js** API RESTFull criada para organização de jogadores e Clubs de futebol.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+
+---
+
+---
+
 ### ⚡ [Gerador de QR Code](https://github.com/gabriel-silva-devs/gerador-qrcode)
 
 > Aplicação **Node.js** CLI para geração dinâmica de QR Codes com exportação de imagem.
